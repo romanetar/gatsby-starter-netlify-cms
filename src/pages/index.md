@@ -1,9 +1,9 @@
 ---
-templateKey: index-page
-title: Gatsby Netlify tests toto
-image: /img/gettyimages-1215836494.jpg
 heading: Gatsby
 subheading: Productive version
+templateKey: index-page
+title: Gatsby Netlify tests
+image: /img/gettyimages-1215836494.jpg
 mainpitch:
   title: Aim
   description: |
